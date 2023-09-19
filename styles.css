@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #007acc;
+    color: white;
+    text-align: right;
+    padding: 25px;
+}
+header h1 {
+    margin: 0;
+    padding-right: 0px;
+}
+header img {
+    border-radius: 10%;
+}
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+h2 {
+    color: #007acc;
+}
+
+hr {
+    border-color: #007acc;
+}
+table {
+    width: 100%;
+}
+
+td {
+    padding: 5px;
+}
+
+video {
+    width: 250pxz;
+    height: 250px;
+}
+p {
+    line-height: 1.5;
+}
